@@ -2,7 +2,7 @@
 // `img` points to /public/items/<file>. Swap these for your own photos anytime.
 export const items = [
   { id: 1, name: "Baby Bathing Set / Changing Station", price: 150000, img: "/items/babybathingset.jpeg" },
-  { id: 2, name: "Baby Next-to-Me Bassinet (Bed)", price: 160000, img: "/items/babybed.jpeg" },
+  { id: 2, name: "Baby Next-to-Me Bassinet (Bed)", price: 160000, img: "/items/babyBed.jpeg" },
   { id: 3, name: "Baby Bottle Sterilizer / Dryer", price: 80000, img: "/items/babybottlesdryer.jpeg" },
   { id: 4, name: "Baby Car Seat", price: 65000, img: "/items/babycarset.jpeg" },
   { id: 5, name: "Baby Carrier", price: 35000, img: "/items/babycarrier.jpeg" },

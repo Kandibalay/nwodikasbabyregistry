@@ -9,7 +9,7 @@ export const items = [
   { id: 6, name: "Baby Nest", price: 35000, img: "/items/Babynest.jpeg" },
   { id: 7, name: "Huggies Diapers", price: 80000, img: "/items/Huggiesdiaper.jpeg" },
   { id: 8, name: "Comfort Fabric Conditioner", price: 24000, img: "/items/comforconditioner.jpeg" },
-  { id: 9, name: "Milk / Food Warmer", price: 50000, img: "/items/Milk-Warmernew.jpeg" },
+  { id: 9, name: "Milk / Food Warmer", price: 50000, img: "/items/MilkWarmernew.jpeg" },
   { id: 10, name: "Thermo Flask (Set of 2)", price: 70000, img: "/items/ThermoFlasknew.jpeg" },
   { id: 11, name: "Wardrobe", price: 160000, img: "/items/wardrobenew.jpeg" },
 ];

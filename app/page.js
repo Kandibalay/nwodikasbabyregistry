@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <main>
       <header className="hero">
-        <img src="/baby-3.jpg" alt="" className="baby" />
+        <img src="/baby3.jpg" alt="" className="baby" />
         <p className="eyebrow">A gift registry</p>
         <h1>Welcome, Baby Nwodika.</h1>
         <p className="sub">

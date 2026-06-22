@@ -1,17 +1,17 @@
 // Registry items. Prices in Naira.
 // `img` points to /public/items/<file>. Swap these for your own photos anytime.
 export const items = [
-  { id: 1, name: "Baby Bathing Set / Changing Station", price: 150000, img: "/items/baby-bathing-set.jpeg" },
-  { id: 2, name: "Baby Next-to-Me Bassinet (Bed)", price: 160000, img: "/items/baby-bed.jpeg" },
-  { id: 3, name: "Baby Bottle Sterilizer / Dryer", price: 80000, img: "/items/baby-bottles-dryer.jpeg" },
-  { id: 4, name: "Baby Car Seat", price: 65000, img: "/items/baby-car-set.jpeg" },
-  { id: 5, name: "Baby Carrier", price: 35000, img: "/items/baby-carrier.jpeg" },
-  { id: 6, name: "Baby Nest", price: 35000, img: "/items/Baby-nest.jpeg" },
-  { id: 7, name: "Huggies Diapers", price: 80000, img: "/items/Huggies-diaper.jpeg" },
-  { id: 8, name: "Comfort Fabric Conditioner", price: 24000, img: "/items/comfor-conditioner.jpeg" },
-  { id: 9, name: "Milk / Food Warmer", price: 50000, img: "/items/Milk-Warmer-new.jpeg" },
-  { id: 10, name: "Thermo Flask (Set of 2)", price: 70000, img: "/items/Thermo-Flask_new.jpeg" },
-  { id: 11, name: "Wardrobe", price: 160000, img: "/items/wardrobe-new.jpeg" },
+  { id: 1, name: "Baby Bathing Set / Changing Station", price: 150000, img: "/items/babybathingset.jpeg" },
+  { id: 2, name: "Baby Next-to-Me Bassinet (Bed)", price: 160000, img: "/items/babybed.jpeg" },
+  { id: 3, name: "Baby Bottle Sterilizer / Dryer", price: 80000, img: "/items/babybottlesdryer.jpeg" },
+  { id: 4, name: "Baby Car Seat", price: 65000, img: "/items/babycarset.jpeg" },
+  { id: 5, name: "Baby Carrier", price: 35000, img: "/items/babycarrier.jpeg" },
+  { id: 6, name: "Baby Nest", price: 35000, img: "/items/Babynest.jpeg" },
+  { id: 7, name: "Huggies Diapers", price: 80000, img: "/items/Huggiesdiaper.jpeg" },
+  { id: 8, name: "Comfort Fabric Conditioner", price: 24000, img: "/items/comforconditioner.jpeg" },
+  { id: 9, name: "Milk / Food Warmer", price: 50000, img: "/items/Milk-Warmernew.jpeg" },
+  { id: 10, name: "Thermo Flask (Set of 2)", price: 70000, img: "/items/ThermoFlasknew.jpeg" },
+  { id: 11, name: "Wardrobe", price: 160000, img: "/items/wardrobenew.jpeg" },
 ];
 
 export const tiers = [
